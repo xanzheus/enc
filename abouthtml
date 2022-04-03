@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html class="no-js" lang="">
+    <head>
+        <!-- meta charset -->
+        <meta charset="utf-8">
+        <!-- site title -->
+        <title>Landing Page | Dev</title>
+        <!-- meta description -->
+        <meta name="description" content="">
+        <!-- mobile viwport meta -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- favicon -->
+        <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+        
+        <!-- ================================
+        CSS Files
+        ================================= -->
+        <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i|Open+Sans:400,600,700,800" rel="stylesheet">
+        <link rel="stylesheet" href="css/themefisher-fonts.min.css">
+        <link rel="stylesheet" href="css/owl.carousel.min.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/dark.css">
+        <link id="color-changer" rel="stylesheet" href="css/colors/red.css">
+
+        <link href="fontawesome/css/fontawesome.min.css" rel="stylesheet">
+        <link href="fontawesome/css/brands.min.css" rel="stylesheet">
+        <link href="fontawesome/css/solid.min.css" rel="stylesheet">
+        <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    </head>
+
+    <body class="dark">
+        <div class="preloader">
+            <div class="loading-mask"></div>
+            <div class="loading-mask"></div>
+            <div class="loading-mask"></div>
+            <div class="loading-mask"></div>
+            <div class="loading-mask"></div>
+        </div>
+
+        <main>
+            <div class="pt-table">
+                <div class="pt-tablecell page-home relative" style="background-image: url('img/banner.jpg');">
+                    <div class="overlay"></div>
+
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xs-12 col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8">
+                                <div class="page-title text-center">
+                                    <br>
+                                    <div id="mainMessages">
+                                        <p>Welcome!</p> 
+                                    </div>
+                                    <h2><span id="typed-mainMessages"></span></h2>
+                                    <br>
+                                    <div id="subMessages">
+                                        <p id="subMessage1"></p>
+                                        <p id="subMessage2"></p>
+                                        <p id="subMessage3"></p>
+                                        <p id="subMessage4"></p>
+                                    </div>
+                                    <h3><span id="typed-subMessages"></span></h3>
+                                    <br>
+                                </div>
+
+                                <div class="hexagon-menu clear">
+                                    <div class="hexagon-item">
+                                        <div class="hex-item">
+                                            <div></div>
+                                            <div></div>
+                                            <div></div>
+                                        </div>
+                                        <div class="hex-item">
+                                            <div></div>
+                                            <div></div>
+                                            <div></div>
+                                        </div>
+                                        <a href="about.html" class="hex-content">
+                                            <span class="hex-content-inner">
+                                                <span class="icon">
+                                                    <i class="tf-dial"></i>
+                                                </span>
+                                                <span class="title">About</span>
+                                            </span>
+                                            <svg viewbox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+                                        </a>
+                                    </div>
+                                    <div class="hexagon-item">
+                                        <div class="hex-item">
+                                            <div></div>
+                                            <div></div>
+                                            <div></div>
+                                        </div>
+                                        <div class="hex-item">
+                                            <div></div>
+                                            <div></div>
+                                            <div></div>
+                                        </div>
+                                        <a href="https://instagram.com/ryan.frf" class="hex-content">
+                                            <span class="hex-content-inner">
+                                                <span class="icon">
+                                                    <i class="fab fa-instagram"></i>
+                                                </span>
+                                                <span class="title">Instagram</span>
+                                            </span>
+                                            <svg viewbox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+                                        </a>
+                                    </div>
+                                    <div class="hexagon-item">
+                                        <div class="hex-item">
+                                            <div></div>
+                                            <div></div>
+                                            <div></div>
+                                        </div>
+                                        <div class="hex-item">
+                                            <div></div>
+                                            <div></div>
+                                            <div></div>
+                                        </div>
+                                        <a href="https://behance.net/ryanfrf/" class="hex-content">
+                                            <span class="hex-content-inner">
+                                                <span class="icon">
+                                                    <i class="fab fa-behance"></i>
+                                                </span>
+                                                <span class="title">Behance</span>
+                                            </span>
+                                            <svg viewbox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+                                        </a>    
+                                    </div>
+                                    <div class="hexagon-item">
+                                        <div class="hex-item">
+                                            <div></div>
+                                            <div></div>
+                                            <div></div>
+                                        </div>
+                                        <div class="hex-item">
+                                            <div></div>
+                                            <div></div>
+                                            <div></div>
+                                        </div>
+                                        <a href="https://gitlab.com/ryan.frf/" class="hex-content">
+                                            <span class="hex-content-inner">
+                                                <span class="icon">
+                                                    <i class="fab fa-gitlab"></i>
+                                                </span>
+                                                <span class="title">Gitlab</span>
+                                            </span>
+                                            <svg viewbox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+                                        </a>
+                                    </div>
+                                    <div class="hexagon-item">
+                                        <div class="hex-item">
+                                            <div></div>
+                                            <div></div>
+                                            <div></div>
+                                        </div>
+                                        <div class="hex-item">
+                                            <div></div>
+                                            <div></div>
+                                            <div></div>
+                                        </div>
+                                        <a href="https://dev.to/ryan_frf/" class="hex-content">
+                                            <span class="hex-content-inner">
+                                                <span class="icon">
+                                                    <i class="fab fa-dev"></i>
+                                                </span>
+                                                <span class="title">Dev</span>
+                                            </span>
+                                            <svg viewbox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+                                        </a>
+                                    </div>
+                                    <div class="hexagon-item">
+                                        <div class="hex-item">
+                                            <div></div>
+                                            <div></div>
+                                            <div></div>
+                                        </div>
+                                        <div class="hex-item">
+                                            <div></div>
+                                            <div></div>
+                                            <div></div>
+                                        </div>
+                                        <a href="https://twitter.com/padlikodil/" class="hex-content">
+                                            <span class="hex-content-inner">
+                                                <span class="icon">
+                                                    <i class="fab fa-twitter"></i>
+                                                </span>
+                                                <span class="title">Twitter</span>
+                                            </span>
+                                            <svg viewbox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+                                        </a>
+                                    </div>
+                                    <div class="hexagon-item">
+                                        <div class="hex-item">
+                                            <div></div>
+                                            <div></div>
+                                            <div></div>
+                                        </div>
+                                        <div class="hex-item">
+                                            <div></div>
+                                            <div></div>
+                                            <div></div>
+                                        </div>
+                                        <a href="https://wa.me/6287714745440/" class="hex-content">
+                                            <span class="hex-content-inner">
+                                                <span class="icon">
+                                                    <i class="fab fa-whatsapp"></i>
+                                                </span>
+                                                <span class="title">WhatsApp</span>
+                                            </span>
+                                            <svg viewbox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+                                        </a>
+                                    </div>
+                                </div> <!-- /.hexagon-menu -->
+                                <br>
+                                <br>
+                                <br>
+                                <div class="border-top text-center border-dark py-5">
+                                    <p class="mb-0 text-light"><b>your ip address :</b> <p id="yourIp"></p></p>
+                                </div>
+                                <br>
+				<div class="border-top text-center border-dark py-5">
+                                    <p class="mb-0 text-light"><b>your location :</b> <p id="yourLocation"></p></p>
+                                </div>
+                                <br>
+			        <div class="border-top text-center border-dark py-5">
+                                    <p class="mb-0 text-light"><b>visitors :</b> <p id="visitors">8k</p></p>
+                                </div>
+                                <br>
+                                <br>
+                                <div class="border-top text-center border-dark py-5">
+                                    <p class="mb-0 text-light">Copyright All Right Reserved </p>
+                                    <p class="mb-0 text-light">© 2021 - <script>
+                                        var CurrentYear = new Date().getFullYear()
+                                        document.write(CurrentYear)
+                                    </script></p>
+                                </div>
+
+                            </div> <!-- /.col-xs-12 -->
+                            
+
+                        </div> <!-- /.row -->
+                    </div> <!-- /.container -->
+                    
+
+                </div> <!-- /.pt-tablecell -->
+            </div> <!-- /.pt-table -->
+        </main> <!-- /.site-wrapper -->
+        
+        <!-- ================================
+        JavaScript Libraries
+        ================================= -->
+        <script src="js/vendor/jquery-2.2.4.min.js"></script>
+        <script src="js/vendor/bootstrap.min.js"></script>
+        <!-- <script src="js/jquery.easing.min.js"></script> -->
+        <script src="js/isotope.pkgd.min.js"></script>
+        <script src="js/jquery.nicescroll.min.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+        <script src="js/jquery-validation.min.js"></script>
+        <script src="js/form.min.js"></script>
+        <script src="js/main.js"></script>
+        <script>
+		
+		
+            // typed js
+            var typed1 = new Typed('#typed-mainMessages',{
+		    
+                    stringsElement: '#mainMessages',
+                    backSpeed: 80,
+                    typeSpeed: 80
+		    
+            });
+
+            setTimeout( function() {
+                
+                var messages = [
+			
+		        "17",
+        	        "FULL STACK DEV",
+        	        "I LIVE IN WEST JAVA / BANDUNG",
+        	        "STUDENT"
+			
+                ];
+                
+                for(var indexMessages = 0; indexMessages < messages.length; indexMessages++) {
+                    
+		         document.getElementById(`subMessage${indexMessages+1}`).innerHTML=`${messages[indexMessages]}`;
+                    
+                }
+                
+	        var typed2 = new Typed('#typed-subMessages',{
+                    
+                	stringsElement: '#subMessages',
+                        backSpeed: 60,
+                        typeSpeed: 60,
+                        loop : true
+                });
+		    
+            }, 3000 ); 
+            
+            // ip address request
+            const ipAddressEndpoint = "https://api.ipify.org/?format=json";
+            const ipAddressFetchPromise = fetch(ipAddressEndpoint);
+		
+            ipAddressFetchPromise.then(response => {
+		    
+                return response.json();
+		    
+            }).then(data => {
+		    
+                document.getElementById("yourIp").innerHTML=`${data.ip}`;
+		    
+		// find location
+	        const locationEndpoint = `https://ipapi.co/${data.ip}/json/`;
+                const locationFetchPromise = fetch(locationEndpoint);
+		    
+                locationFetchPromise.then(response => {
+			
+                    return response.json();
+			
+                }).then(data => {
+			
+                    document.getElementById("yourLocation").innerHTML=`${data.city}/${data.country_name}`;
+			
+                });
+            });
+		
+	    
+        </script>
+    </body>
+</html>
